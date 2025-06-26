@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,vue,nuxtjs,react,nextjs,laravel,flask,,mysql,firebase,aws,docker,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,vue,nuxtjs,react,nextjs,laravel,flask,mysql,firebase,aws,docker,git,githubactions)](https://skillicons.dev)
 
 ---
 
