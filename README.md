@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**n-github/n-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NarumiNaito/NarumiNaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <!-- GitHub スタッツ -->
 <!-- GitHub 最終コミット言語 -->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n-github&theme=dracula" alt="Top Commit Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n-github&theme=dracula" alt="Repos per Language" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NarumiNaito&theme=dracula" alt="Top Commit Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NarumiNaito&theme=dracula" alt="Repos per Language" />
 
 <!-- プロフィール詳細カード -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-github&theme=dracula" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NarumiNaito&theme=dracula" alt="Profile Details" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n-github/n-github/main/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n-github/n-github/main/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/n-github/n-github/main/img/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarumiNaito/NarumiNaito/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarumiNaito/NarumiNaito/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NarumiNaito/NarumiNaito/main/img/snake.svg">
 </picture>
